@@ -8,7 +8,7 @@ In this project, our main goal is to understand how to use a while loop in C++.
 
 Develop a program that takes inputs from the user until a negative number is entered.
 
--For example, the program will output:
+- For example, the program will output:
 ```
 Enter the number (enter a negative number to stop):
 9
