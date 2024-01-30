@@ -10,14 +10,10 @@ Develop a program that takes inputs from the user until a negative number is ent
 
 - For example, the program will output:
 ```
-Enter the number (enter a negative number to stop):
-9
-Enter the number (enter a negative number to stop):
-8
-Enter the number (enter a negative number to stop):
-0
-Enter the number (enter a negative number to stop):
--8
+Enter the number (enter a negative number to stop): 9
+Enter the number (enter a negative number to stop): 8
+Enter the number (enter a negative number to stop): 0
+Enter the number (enter a negative number to stop): -8
 End
 ```
 
